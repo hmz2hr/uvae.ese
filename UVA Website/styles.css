@@ -1,0 +1,68 @@
+.navbar {
+    background-color:#232D4B;
+
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex;
+    justify-content: space-around;
+   
+    
+}
+
+.nav-link {
+    color:#fff;
+    font-family: 'Roboto';
+}
+.nav-link:hover {
+    color: #E57200;
+}
+
+.dropdown-menu {
+
+    background-color: #232D4B;
+}
+
+
+
+.dropdown-item {
+  
+    color:#fff;
+ }
+ 
+.carousel-item {
+    height: 80vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.logo {
+    display:flex;
+    justify-content: flex-end;
+}
+.title {
+    display:flex;
+    justify-content: flex-start;
+    margin-top:2px;
+    
+    
+   
+}
+
+h3 {
+    font-family: 'Roboto'; 
+    color: #232D4B;
+   
+}
+
+h5 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #232D4B;
+}
+
+
+
